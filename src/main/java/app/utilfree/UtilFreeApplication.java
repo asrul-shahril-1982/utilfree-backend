@@ -1,0 +1,11 @@
+package app.utilfree;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class UtilFreeApplication {
+    public static void main(String[] args) {
+        SpringApplication.run(UtilFreeApplication.class, args);
+    }
+}
